@@ -54,5 +54,3 @@ Answer displayed in Streamlit UI
         ↓
 Chat history stored in session state
 
-
-<img width="451" height="835" alt="image" src="https://github.com/user-attachments/assets/b0c8fcc8-6c26-4361-a9cf-197cc47c26ec" />
